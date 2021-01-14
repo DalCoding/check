@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-        <item android:id="@android:id/background">
-            <bitmap
-                android:src="@drawable/custom_rating_false"
-                android:tint="?attr/colorControlNormal" />
-        </item>
-
-        <item android:id="@android:id/secondaryProgress">
-            <bitmap
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/background"
             android:src="@drawable/custom_rating_false"
-            android:tint="?attr/colorControlNormal" />
-        </item>
+             />
 
-
-        <item android:id="@android:id/progress">
-            <bitmap
+    <item android:id="@+id/secondaryProgress"
+            android:src="@drawable/custom_rating_false"
+             />
+    <item android:id="@+id/progress"
             android:src="@drawable/custom_rating_true"
-            android:tint="?attr/colorControlActivated" />
-        </item>
+             />
 
-    </layer-list>
+</layer-list>

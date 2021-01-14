@@ -6,12 +6,18 @@
     android:orientation="vertical"
     android:gravity="center">
 
+
     <RatingBar
         android:id="@+id/rating"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/custom_ratingbar"
+        style="@style/dtrRatingBar"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
         android:numStars="5"
-        style="@style/dtrRatingBar" />
+        android:stepSize="0.5" />
 
     <LinearLayout
         android:layout_width="wrap_content"
