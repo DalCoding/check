@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025449624318",
+    "project_id": "flash-ocean-298300",
+    "storage_bucket": "flash-ocean-298300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025449624318:android:a5d2422bc770ffde01dbaf",
+        "android_client_info": {
+          "package_name": "org.techtown.te1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025449624318-63r4ktfd02dtbi5csq50qpb7f5ffhk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_36qcrNrJ-_I_qRxh2_sGjfyYEtftm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025449624318-63r4ktfd02dtbi5csq50qpb7f5ffhk11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
